@@ -37,3 +37,10 @@ input {
   border-color: grey;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: solid;
+}
